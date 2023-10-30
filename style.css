@@ -1,0 +1,16 @@
+#color{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column ;
+    height: 100vh;
+    
+
+}
+
+h1{
+    background-color: black;
+    color: white;
+    padding: 6px;
+    border-radius: 10px;
+}
